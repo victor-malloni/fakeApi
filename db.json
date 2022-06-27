@@ -1,84 +1,40 @@
 {
   "Viper": [
     {
-      "ascent": {
-        "ataque": [
-          {
-            "thumbnailUrl": "https://i.imgur.com/n88VKvq.jpeg",
-            "link": "https://www.youtube.com/watch?v=KPEuQ4qWzC4",
-            "autor": "Fulano",
-            "titulo": "Viper ascent ataque"
-          }
-        ],
-        "defesa": [
-          {
-            "thumbnailUrl": "https://i.imgur.com/EXE8yyp.jpeg",
-            "link": "https://www.youtube.com/watch?v=IY3bN73-qRQ",
-            "autor": "Ciclano",
-            "titulo": "Viper ascent defesa"
-          }
-        ]
-      },
-      "bind": {
-        "ataque": [
-          {
-            "thumbnailUrl": "https://i.imgur.com/n88VKvq.jpeg",
-            "link": "https://www.youtube.com/watch?v=KPEuQ4qWzC4",
-            "autor": "Fulano",
-            "titulo": "Viper ascent ataque"
-          }
-        ],
-        "defesa": [
-          {
-            "thumbnailUrl": "https://i.imgur.com/EXE8yyp.jpeg",
-            "link": "https://www.youtube.com/watch?v=IY3bN73-qRQ",
-            "autor": "Ciclano",
-            "titulo": "Viper ascent defesa"
-          }
-        ]
-      },
-      
-    }
-  ],
-"Breach": [
-    {
-      "ascent": {
-        "ataque": [
-          {
-            "thumbnailUrl": "https://i.imgur.com/n88VKvq.jpeg",
-            "link": "https://www.youtube.com/watch?v=KPEuQ4qWzC4",
-            "autor": "Fulano",
-            "titulo": "Viper ascent ataque"
-          }
-        ],
-        "defesa": [
-          {
-            "thumbnailUrl": "https://i.imgur.com/EXE8yyp.jpeg",
-            "link": "https://www.youtube.com/watch?v=IY3bN73-qRQ",
-            "autor": "Ciclano",
-            "titulo": "Viper ascent defesa"
-          }
-        ]
-      },
-      "bind": {
-        "ataque": [
-          {
-            "thumbnailUrl": "https://i.imgur.com/n88VKvq.jpeg",
-            "link": "https://www.youtube.com/watch?v=KPEuQ4qWzC4",
-            "autor": "Fulano",
-            "titulo": "Viper ascent ataque"
-          }
-        ],
-        "defesa": [
-          {
-            "thumbnailUrl": "https://i.imgur.com/EXE8yyp.jpeg",
-            "link": "https://www.youtube.com/watch?v=IY3bN73-qRQ",
-            "autor": "Ciclano",
-            "titulo": "Viper ascent defesa"
-          }
-        ]
-      }
-      
+      "AscentAtaque": [
+        {
+          "thumbnailUrl": "https://i.imgur.com/n88VKvq.jpeg",
+          "link": "https://www.youtube.com/watch?v=KPEuQ4qWzC4",
+          "autor": "Fulano",
+          "titulo": "Viper ascent ataque"
+        }
+      ],
+      "AscentDefesa": [
+        {
+          "thumbnailUrl": "https://i.imgur.com/EXE8yyp.jpeg",
+          "link": "https://www.youtube.com/watch?v=IY3bN73-qRQ",
+          "autor": "Ciclano",
+          "titulo": "Viper ascent defesa"
+        }
+      ]
+    },
+{
+      "BindAtaque": [
+        {
+          "thumbnailUrl": "https://i.imgur.com/n88VKvq.jpeg",
+          "link": "https://www.youtube.com/watch?v=KPEuQ4qWzC4",
+          "autor": "Fulano",
+          "titulo": "Viper ascent ataque"
+        }
+      ],
+      "BindDefesa": [
+        {
+          "thumbnailUrl": "https://i.imgur.com/EXE8yyp.jpeg",
+          "link": "https://www.youtube.com/watch?v=IY3bN73-qRQ",
+          "autor": "Ciclano",
+          "titulo": "Viper ascent defesa"
+        }
+      ]
     }
   ]
 }
