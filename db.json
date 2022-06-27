@@ -1,53 +1,17 @@
 {
-  "Viper": {
-    "ascent": {
-      "ataque": [
-        {
-          "thumbnailUrl": "https://i.imgur.com/n88VKvq.jpeg",
-          "link": "https://www.youtube.com/watch?v=KPEuQ4qWzC4",
-          "autor": "Fulano",
-          "titulo": "Viper ascent ataque"
-        }
-      ],
-      "defesa": [
-        {
-          "thumbnailUrl": "https://i.imgur.com/EXE8yyp.jpeg",
-          "link": "https://www.youtube.com/watch?v=IY3bN73-qRQ",
-          "autor": "Ciclano",
-          "titulo": "Viper ascent defesa"
-        }
-      ]
-    },
-    "bind": {
-      "ataque": [
-        {
-          "thumbnailUrl": "https://i.imgur.com/rcwhTmy.jpeg",
-          "link": "https://www.youtube.com/watch?v=JE085nlHbew",
-          "autor": "Beltrano",
-          "titulo": "Viper bind ataque"
-        }
-      ],
-      "defesa": [
-        {
-          "thumbnailUrl": "https://i.imgur.com/mrrRD0y.png",
-          "link": "https://www.youtube.com/watch?v=_ZCgudRnWfE",
-          "autor": "Ronaldo",
-          "titulo": "Viper bind defesa"
-        }
-      ]
-    }   
-  },
+  "Viper": [{
 
-  "Breach": {
-    "ascent": {
-      "ataque": [
+    "ascent": [{
+
+      "ataque":[ 
         {
           "thumbnailUrl": "https://i.imgur.com/n88VKvq.jpeg",
           "link": "https://www.youtube.com/watch?v=KPEuQ4qWzC4",
           "autor": "Fulano",
           "titulo": "Viper ascent ataque"
         }
-      ],
+       ],
+
       "defesa": [
         {
           "thumbnailUrl": "https://i.imgur.com/EXE8yyp.jpeg",
@@ -56,25 +20,77 @@
           "titulo": "Viper ascent defesa"
         }
       ]
-    },
-    "bind": {
-      "ataque": [
+
+    }],
+
+"bind": [{
+
+      "ataque":[ 
         {
-          "thumbnailUrl": "https://i.imgur.com/rcwhTmy.jpeg",
-          "link": "https://www.youtube.com/watch?v=JE085nlHbew",
-          "autor": "Beltrano",
-          "titulo": "Viper bind ataque"
+          "thumbnailUrl": "https://i.imgur.com/n88VKvq.jpeg",
+          "link": "https://www.youtube.com/watch?v=KPEuQ4qWzC4",
+          "autor": "Fulano",
+          "titulo": "Viper ascent ataque"
         }
-      ],
+       ],
+
       "defesa": [
         {
-          "thumbnailUrl": "https://i.imgur.com/mrrRD0y.png",
-          "link": "https://www.youtube.com/watch?v=_ZCgudRnWfE",
-          "autor": "Ronaldo",
-          "titulo": "Viper bind defesa"
+          "thumbnailUrl": "https://i.imgur.com/EXE8yyp.jpeg",
+          "link": "https://www.youtube.com/watch?v=IY3bN73-qRQ",
+          "autor": "Ciclano",
+          "titulo": "Viper ascent defesa"
         }
       ]
-    }   
-  }
-  
+
+    }]
+
+  }],
+"Breach": [{
+
+    "ascent": [{
+
+      "ataque":[ 
+        {
+          "thumbnailUrl": "https://i.imgur.com/n88VKvq.jpeg",
+          "link": "https://www.youtube.com/watch?v=KPEuQ4qWzC4",
+          "autor": "Fulano",
+          "titulo": "Viper ascent ataque"
+        }
+       ],
+
+      "defesa": [
+        {
+          "thumbnailUrl": "https://i.imgur.com/EXE8yyp.jpeg",
+          "link": "https://www.youtube.com/watch?v=IY3bN73-qRQ",
+          "autor": "Ciclano",
+          "titulo": "Viper ascent defesa"
+        }
+      ]
+
+    }],
+
+"bind": [{
+
+      "ataque":[ 
+        {
+          "thumbnailUrl": "https://i.imgur.com/n88VKvq.jpeg",
+          "link": "https://www.youtube.com/watch?v=KPEuQ4qWzC4",
+          "autor": "Fulano",
+          "titulo": "Viper ascent ataque"
+        }
+       ],
+
+      "defesa": [
+        {
+          "thumbnailUrl": "https://i.imgur.com/EXE8yyp.jpeg",
+          "link": "https://www.youtube.com/watch?v=IY3bN73-qRQ",
+          "autor": "Ciclano",
+          "titulo": "Viper ascent defesa"
+        }
+      ]
+
+    }]
+
+  }]
 }
